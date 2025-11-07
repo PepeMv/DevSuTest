@@ -1,0 +1,15 @@
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\bin\Debug\net8.0\BancaContexto.deps.json
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\bin\Debug\net8.0\BancaContexto.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\bin\Debug\net8.0\BancaContexto.pdb
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\obj\Debug\net8.0\BancaContexto.csproj.AssemblyReference.cache
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\obj\Debug\net8.0\BancaContexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\obj\Debug\net8.0\BancaContexto.AssemblyInfoInputs.cache
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\obj\Debug\net8.0\BancaContexto.AssemblyInfo.cs
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\obj\Debug\net8.0\BancaContexto.csproj.CoreCompileInputs.cache
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\obj\Debug\net8.0\BancaContexto.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\obj\Debug\net8.0\refint\BancaContexto.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\obj\Debug\net8.0\BancaContexto.pdb
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\obj\Debug\net8.0\ref\BancaContexto.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\bin\Debug\net8.0\BancaEntidades.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\bin\Debug\net8.0\BancaEntidades.pdb
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaContexto\obj\Debug\net8.0\BancaCon.22155FE2.Up2Date

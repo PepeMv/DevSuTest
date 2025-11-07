@@ -1,0 +1,17 @@
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\bin\Release\net8.0\Configuration.deps.json
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\bin\Release\net8.0\Configuration.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\bin\Release\net8.0\Configuration.pdb
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\bin\Release\net8.0\BancaContexto.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\bin\Release\net8.0\BancaEntidades.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\bin\Release\net8.0\BancaContexto.pdb
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\bin\Release\net8.0\BancaEntidades.pdb
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\obj\Release\net8.0\Configuration.csproj.AssemblyReference.cache
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\obj\Release\net8.0\Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\obj\Release\net8.0\Configuration.AssemblyInfoInputs.cache
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\obj\Release\net8.0\Configuration.AssemblyInfo.cs
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\obj\Release\net8.0\Configuration.csproj.CoreCompileInputs.cache
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\obj\Release\net8.0\Configur.5CBB0BA1.Up2Date
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\obj\Release\net8.0\Configuration.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\obj\Release\net8.0\refint\Configuration.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\obj\Release\net8.0\Configuration.pdb
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Configuration\Configuration\obj\Release\net8.0\ref\Configuration.dll

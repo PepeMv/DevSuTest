@@ -1,0 +1,48 @@
+version: '3.9'
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: mysql-local
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_DATABASE: appdb
+      MYSQL_USER: appuser
+      MYSQL_PASSWORD: app123
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+  phpmyadmin:
+    image: phpmyadmin:latest
+    container_name: phpmyadmin-local
+    restart: always
+    environment:
+      PMA_HOST: mysql
+      PMA_PORT: 3306
+      PMA_USER: root
+      PMA_PASSWORD: 123456
+    ports:
+      - "8080:80"
+    depends_on:
+      - mysql
+
+  api:
+    image: banca_api:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: banca_api
+    restart: always
+    ports:
+      - "5000:8081"
+    environment:
+      DOTNET_URLS: "http://0.0.0.0:8081"
+      ConnectionStrings__DefaultConnection: "Server=mysql;Port=3306;Database=appdb;User=appuser;Password=app123;"
+    depends_on:
+      - mysql
+
+volumes:
+  mysql_data:

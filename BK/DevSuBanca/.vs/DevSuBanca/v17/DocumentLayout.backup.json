@@ -1,0 +1,786 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\presentationlayer\\banca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|solutionrelative:presentationlayer\\banca.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\presentationlayer\\banca.api\\docker-compose.api.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|solutionrelative:presentationlayer\\banca.api\\docker-compose.api.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\presentationlayer\\banca.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|solutionrelative:presentationlayer\\banca.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\presentationlayer\\banca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|solutionrelative:presentationlayer\\banca.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\businesslayer\\bancanegocio\\movimiento\\damemovimientosporcuentarangofechashandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|solutionrelative:businesslayer\\bancanegocio\\movimiento\\damemovimientosporcuentarangofechashandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1781382-DE92-424F-9B41-7797E3C8617B}|Configuration\\Configuration\\Configuration.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\configuration\\configuration\\middlewares\\handlerexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1781382-DE92-424F-9B41-7797E3C8617B}|Configuration\\Configuration\\Configuration.csproj|solutionrelative:configuration\\configuration\\middlewares\\handlerexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55EFE4-52F7-4432-8C0F-94336F442251}|DataAccessLayer\\BancaContexto\\BancaContexto.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\dataaccesslayer\\bancacontexto\\extensiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55EFE4-52F7-4432-8C0F-94336F442251}|DataAccessLayer\\BancaContexto\\BancaContexto.csproj|solutionrelative:dataaccesslayer\\bancacontexto\\extensiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\businesslayer\\bancanegocio\\movimiento\\nuevomovimientohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|solutionrelative:businesslayer\\bancanegocio\\movimiento\\nuevomovimientohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84ED4718-A275-476B-B285-F2C1CECEDD39}|DataAccessLayer\\BancaEntidades\\BancaEntidades.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\dataaccesslayer\\bancaentidades\\movimiento_entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84ED4718-A275-476B-B285-F2C1CECEDD39}|DataAccessLayer\\BancaEntidades\\BancaEntidades.csproj|solutionrelative:dataaccesslayer\\bancaentidades\\movimiento_entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84ED4718-A275-476B-B285-F2C1CECEDD39}|DataAccessLayer\\BancaEntidades\\BancaEntidades.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\dataaccesslayer\\bancaentidades\\movimiento_funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84ED4718-A275-476B-B285-F2C1CECEDD39}|DataAccessLayer\\BancaEntidades\\BancaEntidades.csproj|solutionrelative:dataaccesslayer\\bancaentidades\\movimiento_funcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84ED4718-A275-476B-B285-F2C1CECEDD39}|DataAccessLayer\\BancaEntidades\\BancaEntidades.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\dataaccesslayer\\bancaentidades\\cuenta_entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84ED4718-A275-476B-B285-F2C1CECEDD39}|DataAccessLayer\\BancaEntidades\\BancaEntidades.csproj|solutionrelative:dataaccesslayer\\bancaentidades\\cuenta_entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1781382-DE92-424F-9B41-7797E3C8617B}|Configuration\\Configuration\\Configuration.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\configuration\\configuration\\mediatrextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1781382-DE92-424F-9B41-7797E3C8617B}|Configuration\\Configuration\\Configuration.csproj|solutionrelative:configuration\\configuration\\mediatrextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\businesslayer\\bancanegocio\\movimiento\\actualizamovimientohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|solutionrelative:businesslayer\\bancanegocio\\movimiento\\actualizamovimientohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84ED4718-A275-476B-B285-F2C1CECEDD39}|DataAccessLayer\\BancaEntidades\\BancaEntidades.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\dataaccesslayer\\bancaentidades\\persona_entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84ED4718-A275-476B-B285-F2C1CECEDD39}|DataAccessLayer\\BancaEntidades\\BancaEntidades.csproj|solutionrelative:dataaccesslayer\\bancaentidades\\persona_entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84ED4718-A275-476B-B285-F2C1CECEDD39}|DataAccessLayer\\BancaEntidades\\BancaEntidades.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\dataaccesslayer\\bancaentidades\\cliente_entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84ED4718-A275-476B-B285-F2C1CECEDD39}|DataAccessLayer\\BancaEntidades\\BancaEntidades.csproj|solutionrelative:dataaccesslayer\\bancaentidades\\cliente_entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\presentationlayer\\banca.api\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|solutionrelative:presentationlayer\\banca.api\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF55EFE4-52F7-4432-8C0F-94336F442251}|DataAccessLayer\\BancaContexto\\BancaContexto.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\dataaccesslayer\\bancacontexto\\bancacontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF55EFE4-52F7-4432-8C0F-94336F442251}|DataAccessLayer\\BancaContexto\\BancaContexto.csproj|solutionrelative:dataaccesslayer\\bancacontexto\\bancacontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\businesslayer\\bancanegocio\\cliente\\dametodosclienteshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|solutionrelative:businesslayer\\bancanegocio\\cliente\\dametodosclienteshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\businesslayer\\bancanegocio\\bancanegocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|solutionrelative:businesslayer\\bancanegocio\\bancanegocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\businesslayer\\bancanegocio\\cliente\\nuevoclientehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|solutionrelative:businesslayer\\bancanegocio\\cliente\\nuevoclientehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\presentationlayer\\banca.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|solutionrelative:presentationlayer\\banca.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\businesslayer\\bancanegocio\\cliente\\actualizaclientehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|solutionrelative:businesslayer\\bancanegocio\\cliente\\actualizaclientehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871CEA7D-0D5A-42E7-8351-4D970D460DDD}|Mensajeria\\Mensajeria\\Mensajeria.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\mensajeria\\mensajeria\\movimientomensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871CEA7D-0D5A-42E7-8351-4D970D460DDD}|Mensajeria\\Mensajeria\\Mensajeria.csproj|solutionrelative:mensajeria\\mensajeria\\movimientomensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\presentationlayer\\banca.api\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA65A0DC-EB03-41FD-8A9E-E50D0C9624C4}|PresentationLayer\\Banca.Api\\Banca.Api.csproj|solutionrelative:presentationlayer\\banca.api\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{871CEA7D-0D5A-42E7-8351-4D970D460DDD}|Mensajeria\\Mensajeria\\Mensajeria.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\mensajeria\\mensajeria\\cuentamensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{871CEA7D-0D5A-42E7-8351-4D970D460DDD}|Mensajeria\\Mensajeria\\Mensajeria.csproj|solutionrelative:mensajeria\\mensajeria\\cuentamensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\businesslayer\\bancanegocio\\cuenta\\eliminacuentahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|solutionrelative:businesslayer\\bancanegocio\\cuenta\\eliminacuentahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1781382-DE92-424F-9B41-7797E3C8617B}|Configuration\\Configuration\\Configuration.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\configuration\\configuration\\middlewares\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1781382-DE92-424F-9B41-7797E3C8617B}|Configuration\\Configuration\\Configuration.csproj|solutionrelative:configuration\\configuration\\middlewares\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\businesslayer\\bancanegocio\\movimiento\\eliminamovimientohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|solutionrelative:businesslayer\\bancanegocio\\movimiento\\eliminamovimientohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\businesslayer\\bancanegocio\\cliente\\eliminaclientehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|solutionrelative:businesslayer\\bancanegocio\\cliente\\eliminaclientehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|c:\\users\\pepem\\onedrive\\documentos\\pp\\devsu\\bk\\devsubanca\\businesslayer\\bancanegocio\\cuenta\\nuevacuentahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E20C9D2-92C2-4771-B8FF-49D4C9F78991}|BusinessLayer\\BancaNegocio\\BancaNegocio.csproj|solutionrelative:businesslayer\\bancanegocio\\cuenta\\nuevacuentahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 67,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Persona_Entidad.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaEntidades\\Persona_Entidad.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BancaEntidades\\Persona_Entidad.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaEntidades\\Persona_Entidad.cs",
+              "RelativeToolTip": "DataAccessLayer\\BancaEntidades\\Persona_Entidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:42:05.153Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cliente_Entidad.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaEntidades\\Cliente_Entidad.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BancaEntidades\\Cliente_Entidad.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaEntidades\\Cliente_Entidad.cs",
+              "RelativeToolTip": "DataAccessLayer\\BancaEntidades\\Cliente_Entidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:42:19.294Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.api.yml",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\docker-compose.api.yml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Banca.Api\\docker-compose.api.yml",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\docker-compose.api.yml",
+              "RelativeToolTip": "PresentationLayer\\Banca.Api\\docker-compose.api.yml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-11-05T21:06:00.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "PresentationLayer\\Banca.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\Dockerfile",
+              "RelativeToolTip": "PresentationLayer\\Banca.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-05T21:04:58.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BancaContexto.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaContexto\\BancaContexto.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BancaContexto\\BancaContexto.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaContexto\\BancaContexto.cs",
+              "RelativeToolTip": "DataAccessLayer\\BancaContexto\\BancaContexto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T20:34:40.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BancaNegocio",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\BancaNegocio.csproj",
+              "RelativeDocumentMoniker": "BusinessLayer\\BancaNegocio\\BancaNegocio.csproj",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\BancaNegocio.csproj",
+              "RelativeToolTip": "BusinessLayer\\BancaNegocio\\BancaNegocio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T20:09:41.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "PresentationLayer\\Banca.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\appsettings.json",
+              "RelativeToolTip": "PresentationLayer\\Banca.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T20:03:34.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MovimientoMensajes.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\Mensajeria\\Mensajeria\\MovimientoMensajes.cs",
+              "RelativeDocumentMoniker": "Mensajeria\\Mensajeria\\MovimientoMensajes.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\Mensajeria\\Mensajeria\\MovimientoMensajes.cs",
+              "RelativeToolTip": "Mensajeria\\Mensajeria\\MovimientoMensajes.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAIA5wE4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:09:54.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DameMovimientosPorCuentaRangoFechasHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Movimiento\\DameMovimientosPorCuentaRangoFechasHandler.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BancaNegocio\\Movimiento\\DameMovimientosPorCuentaRangoFechasHandler.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Movimiento\\DameMovimientosPorCuentaRangoFechasHandler.cs",
+              "RelativeToolTip": "BusinessLayer\\BancaNegocio\\Movimiento\\DameMovimientosPorCuentaRangoFechasHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:09:01.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\Controllers\\MovimientoController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Banca.Api\\Controllers\\MovimientoController.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\Controllers\\MovimientoController.cs",
+              "RelativeToolTip": "PresentationLayer\\Banca.Api\\Controllers\\MovimientoController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:12:04.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CuentaMensajes.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\Mensajeria\\Mensajeria\\CuentaMensajes.cs",
+              "RelativeDocumentMoniker": "Mensajeria\\Mensajeria\\CuentaMensajes.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\Mensajeria\\Mensajeria\\CuentaMensajes.cs",
+              "RelativeToolTip": "Mensajeria\\Mensajeria\\CuentaMensajes.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAWwEcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:08:39.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Banca.Api\\Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "PresentationLayer\\Banca.Api\\Controllers\\CuentaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:01:35.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DameTodosClientesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Cliente\\DameTodosClientesHandler.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BancaNegocio\\Cliente\\DameTodosClientesHandler.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Cliente\\DameTodosClientesHandler.cs",
+              "RelativeToolTip": "BusinessLayer\\BancaNegocio\\Cliente\\DameTodosClientesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:53:56.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Banca.Api\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "PresentationLayer\\Banca.Api\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:48:39.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Banca.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\PresentationLayer\\Banca.Api\\Program.cs",
+              "RelativeToolTip": "PresentationLayer\\Banca.Api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:53:09.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MediaTrExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\Configuration\\Configuration\\MediaTrExtensions.cs",
+              "RelativeDocumentMoniker": "Configuration\\Configuration\\MediaTrExtensions.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\Configuration\\Configuration\\MediaTrExtensions.cs",
+              "RelativeToolTip": "Configuration\\Configuration\\MediaTrExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:50:25.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\Configuration\\Configuration\\Middlewares\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Configuration\\Configuration\\Middlewares\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\Configuration\\Configuration\\Middlewares\\UnitOfWork.cs",
+              "RelativeToolTip": "Configuration\\Configuration\\Middlewares\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:49:47.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HandlerExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\Configuration\\Configuration\\Middlewares\\HandlerExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Configuration\\Configuration\\Middlewares\\HandlerExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\Configuration\\Configuration\\Middlewares\\HandlerExceptionMiddleware.cs",
+              "RelativeToolTip": "Configuration\\Configuration\\Middlewares\\HandlerExceptionMiddleware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:48:29.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EliminaMovimientoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Movimiento\\EliminaMovimientoHandler.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BancaNegocio\\Movimiento\\EliminaMovimientoHandler.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Movimiento\\EliminaMovimientoHandler.cs",
+              "RelativeToolTip": "BusinessLayer\\BancaNegocio\\Movimiento\\EliminaMovimientoHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:31:47.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EliminaClienteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Cliente\\EliminaClienteHandler.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BancaNegocio\\Cliente\\EliminaClienteHandler.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Cliente\\EliminaClienteHandler.cs",
+              "RelativeToolTip": "BusinessLayer\\BancaNegocio\\Cliente\\EliminaClienteHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:29:09.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EliminaCuentaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Cuenta\\EliminaCuentaHandler.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BancaNegocio\\Cuenta\\EliminaCuentaHandler.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Cuenta\\EliminaCuentaHandler.cs",
+              "RelativeToolTip": "BusinessLayer\\BancaNegocio\\Cuenta\\EliminaCuentaHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:28:10.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActualizaMovimientoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Movimiento\\ActualizaMovimientoHandler.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BancaNegocio\\Movimiento\\ActualizaMovimientoHandler.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Movimiento\\ActualizaMovimientoHandler.cs",
+              "RelativeToolTip": "BusinessLayer\\BancaNegocio\\Movimiento\\ActualizaMovimientoHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T01:23:51.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ActualizaClienteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Cliente\\ActualizaClienteHandler.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BancaNegocio\\Cliente\\ActualizaClienteHandler.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Cliente\\ActualizaClienteHandler.cs",
+              "RelativeToolTip": "BusinessLayer\\BancaNegocio\\Cliente\\ActualizaClienteHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:41:07.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Extensiones.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaContexto\\Extensiones.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BancaContexto\\Extensiones.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaContexto\\Extensiones.cs",
+              "RelativeToolTip": "DataAccessLayer\\BancaContexto\\Extensiones.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAewC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:40:33.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movimiento_Entidad.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaEntidades\\Movimiento_Entidad.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BancaEntidades\\Movimiento_Entidad.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaEntidades\\Movimiento_Entidad.cs",
+              "RelativeToolTip": "DataAccessLayer\\BancaEntidades\\Movimiento_Entidad.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIA0wDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:24:18.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movimiento_Funcion.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaEntidades\\Movimiento_Funcion.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BancaEntidades\\Movimiento_Funcion.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaEntidades\\Movimiento_Funcion.cs",
+              "RelativeToolTip": "DataAccessLayer\\BancaEntidades\\Movimiento_Funcion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:19:12.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cuenta_Entidad.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaEntidades\\Cuenta_Entidad.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BancaEntidades\\Cuenta_Entidad.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\DataAccessLayer\\BancaEntidades\\Cuenta_Entidad.cs",
+              "RelativeToolTip": "DataAccessLayer\\BancaEntidades\\Cuenta_Entidad.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wDYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:13:59.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NuevoMovimientoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Movimiento\\NuevoMovimientoHandler.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BancaNegocio\\Movimiento\\NuevoMovimientoHandler.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Movimiento\\NuevoMovimientoHandler.cs",
+              "RelativeToolTip": "BusinessLayer\\BancaNegocio\\Movimiento\\NuevoMovimientoHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:01:42.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NuevaCuentaHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Cuenta\\NuevaCuentaHandler.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BancaNegocio\\Cuenta\\NuevaCuentaHandler.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Cuenta\\NuevaCuentaHandler.cs",
+              "RelativeToolTip": "BusinessLayer\\BancaNegocio\\Cuenta\\NuevaCuentaHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:42:24.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NuevoClienteHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Cliente\\NuevoClienteHandler.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\BancaNegocio\\Cliente\\NuevoClienteHandler.cs",
+              "ToolTip": "C:\\Users\\pepem\\OneDrive\\Documentos\\pp\\DevSu\\BK\\DevSuBanca\\BusinessLayer\\BancaNegocio\\Cliente\\NuevoClienteHandler.cs",
+              "RelativeToolTip": "BusinessLayer\\BancaNegocio\\Cliente\\NuevoClienteHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:26:02.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

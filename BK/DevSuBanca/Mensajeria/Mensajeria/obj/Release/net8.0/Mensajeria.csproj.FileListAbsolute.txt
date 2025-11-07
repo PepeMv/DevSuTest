@@ -1,0 +1,11 @@
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Mensajeria\Mensajeria\bin\Release\net8.0\Mensajeria.deps.json
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Mensajeria\Mensajeria\bin\Release\net8.0\Mensajeria.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Mensajeria\Mensajeria\bin\Release\net8.0\Mensajeria.pdb
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Mensajeria\Mensajeria\obj\Release\net8.0\Mensajeria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Mensajeria\Mensajeria\obj\Release\net8.0\Mensajeria.AssemblyInfoInputs.cache
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Mensajeria\Mensajeria\obj\Release\net8.0\Mensajeria.AssemblyInfo.cs
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Mensajeria\Mensajeria\obj\Release\net8.0\Mensajeria.csproj.CoreCompileInputs.cache
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Mensajeria\Mensajeria\obj\Release\net8.0\Mensajeria.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Mensajeria\Mensajeria\obj\Release\net8.0\refint\Mensajeria.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Mensajeria\Mensajeria\obj\Release\net8.0\Mensajeria.pdb
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\Mensajeria\Mensajeria\obj\Release\net8.0\ref\Mensajeria.dll

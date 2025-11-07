@@ -1,0 +1,12 @@
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaEntidades\bin\Debug\net8.0\BancaEntidades.deps.json
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaEntidades\bin\Debug\net8.0\BancaEntidades.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaEntidades\bin\Debug\net8.0\BancaEntidades.pdb
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaEntidades\obj\Debug\net8.0\BancaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaEntidades\obj\Debug\net8.0\BancaEntidades.AssemblyInfoInputs.cache
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaEntidades\obj\Debug\net8.0\BancaEntidades.AssemblyInfo.cs
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaEntidades\obj\Debug\net8.0\BancaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaEntidades\obj\Debug\net8.0\BancaEntidades.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaEntidades\obj\Debug\net8.0\refint\BancaEntidades.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaEntidades\obj\Debug\net8.0\BancaEntidades.pdb
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaEntidades\obj\Debug\net8.0\ref\BancaEntidades.dll
+C:\Users\pepem\OneDrive\Documentos\pp\DevSu\BK\DevSuBanca\DataAccessLayer\BancaEntidades\obj\Debug\net8.0\BancaEntidades.csproj.AssemblyReference.cache
